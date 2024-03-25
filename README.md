@@ -1,41 +1,38 @@
+---
 
+### Justdev 💻
 
-👋 Hello there! I'm JustDev💻,a passionate software developer with a keen interest in building innovative solutions and exploring new technologies. I thrive on challenges and love collaborating with like-minded individuals to create impactful projects.
+### About Me
+
+👋 Hello there! I'm Justdev💻, a second-year college student at URS Cainta and an aspiring developer. I specialize in front-end development, primarily using HTML, CSS, and JavaScript. Additionally, I have some experience with PHP, and I enjoy dabbling in C# for Windows application development.
 
 ### Skills
 
-- **Languages:** 
-  - HTML/CSS 💻
-  - JavaScript ⚙️
-  - PHP 🖥️
-  - C# 🪟
-- **Web Development:** 
-  - HTML, CSS, JavaScript, React.js, Node.js, Express.js
-- **Desktop Development:**
-  - C# Windows Application
-- **Database:** MongoDB, MySQL, PostgreSQL
-- **Other Technologies:** Git, Docker, Kubernetes
-- **Machine Learning:** TensorFlow, Scikit-learn
+- **Front-end Development:** HTML, CSS, JavaScript 💻
+- **Back-end Development:** PHP 🖥️
+- **Desktop Development:** C# (Windows applications) 🪟
 
 ### Projects
 
 Here are a few projects I've worked on:
 
-1. **E-Commerce Website:** Developed a full-stack e-commerce platform using MERN stack, allowing users to browse products, add them to cart, and securely checkout.
+1. *Gym Membership Management System (windows application):** Designed and developed a personal portfolio website showcasing my skills and projects using HTML, CSS, and JavaScript. 🌐
    
-2. **Sentiment Analysis App:** Built a sentiment analysis application using TensorFlow and React.js to analyze sentiment from user-provided text inputs.
+2. **Car Rental Management System (windows application):** Created a web-based calculator application using HTML, CSS, and JavaScript to perform basic arithmetic operations. 🔢
 
-3. **Data Visualization Dashboard:** Created an interactive data visualization dashboard using D3.js, allowing users to explore and analyze complex datasets.
+3. **National University Landing Page Clone:** Developed a simplified version of the Windows Task Manager using C# for monitoring system processes and resources. 🖥️
 
 ### Contributions
 
-I actively contribute to open-source projects and enjoy participating in hackathons and coding competitions. Here are some of my notable contributions:
+I actively contribute to open-source projects and enjoy collaborating with other developers. Here are some of my notable contributions:
 
-- [Repository Name]: Description of contribution.
-- [Repository Name]: Description of contribution.
+- [Repository Name]: Description of contribution. 🚀
+- [Repository Name]: Description of contribution. 🌟
 
 ### Contact Me
 
-Feel free to reach out to me via [email](justinparlan123@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/justdevv/).
+Feel free to reach out to me via ✉️ [email](justinparlan123@gmail.com) or connect with me on 🔗 [LinkedIn](https://www.linkedin.com/in/justdevv/).
 
 ---
+
+Feel free to adjust the placement and choice of emojis according to your preference!
