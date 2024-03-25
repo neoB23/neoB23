@@ -1,6 +1,4 @@
----
-
-### Justdev 💻
+# <h1 align="center">Justdev 💻</h1>
 
 ### About Me
 
@@ -16,11 +14,11 @@
 
 Here are a few projects I've worked on:
 
-1. *Gym Membership Management System (windows application):** Designed and developed a personal portfolio website showcasing my skills and projects using HTML, CSS, and JavaScript. 🌐
+1. **Gym Membership Management System (Windows Application):** Developed a desktop application using C# to manage gym memberships, track attendance, and handle billing. 🏋️‍♂️
    
-2. **Car Rental Management System (windows application):** Created a web-based calculator application using HTML, CSS, and JavaScript to perform basic arithmetic operations. 🔢
+2. **Car Rental Management System (Windows Application):** Created a desktop application in C# for managing car rental bookings, customer information, and payment processing. 🚗
 
-3. **National University Landing Page Clone:** Developed a simplified version of the Windows Task Manager using C# for monitoring system processes and resources. 🖥️
+3. **National University Landing Page Clone:** Designed and developed a clone of the National University landing page using HTML, CSS, and JavaScript. 🎓
 
 ### Contributions
 
@@ -32,7 +30,3 @@ I actively contribute to open-source projects and enjoy collaborating with other
 ### Contact Me
 
 Feel free to reach out to me via ✉️ [email](justinparlan123@gmail.com) or connect with me on 🔗 [LinkedIn](https://www.linkedin.com/in/justdevv/).
-
----
-
-Feel free to adjust the placement and choice of emojis according to your preference!
