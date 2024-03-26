@@ -1,6 +1,8 @@
 <div align="center">
-    <h1>I'm NeoDev 💻,<br>An Aspiring Web Developer👨‍💻</h1>
+    <h1 style="font-weight: bold;">I'm NeoDev 💻,<br>An Aspiring Web Developer👨‍💻</br></h1>
 </div>
+
+
 
   
 
