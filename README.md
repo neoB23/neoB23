@@ -20,13 +20,6 @@ Here are a few projects I've worked on:
 
 3. **National University Landing Page Clone:** Designed and developed a clone of the National University landing page using HTML, CSS, and JavaScript. 🎓
 
-### Contributions
-
-I actively contribute to open-source projects and enjoy collaborating with other developers. Here are some of my notable contributions:
-
-- [Repository Name]: Description of contribution. 🚀
-- [Repository Name]: Description of contribution. 🌟
-
 ### Contact Me
 
 Feel free to reach out to me via ✉️ [email](justinparlan123@gmail.com) or connect with me on 🔗 [LinkedIn](https://www.linkedin.com/in/justdevv/).
