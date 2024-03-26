@@ -2,7 +2,7 @@
 
 ### About Me
 
-👋 Hello there! I'm Justdev💻, a second-year college student at URS Cainta and an aspiring developer. I specialize in front-end development, primarily using HTML, CSS, and JavaScript. Additionally, I have some experience with PHP, and I enjoy dabbling in C# for Windows application development.
+👋 Hello there! I'm NeoDev💻, a second-year college student at URS Cainta and an aspiring developer. I specialize in front-end development, primarily using HTML, CSS, and JavaScript. Additionally, I have some experience with PHP, and I enjoy dabbling in C# for Windows application development.
 
 ### Skills
 
